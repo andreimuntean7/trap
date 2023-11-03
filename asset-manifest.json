@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0c83e90.css",
+    "main.js": "/static/js/main.29db302c.js",
+    "static/js/787.1153445b.chunk.js": "/static/js/787.1153445b.chunk.js",
+    "static/media/emag.png": "/static/media/emag.392e5ea4abc6613691a9.png",
+    "static/media/voucer.svg": "/static/media/voucer.a3d8b7090011858a70fa98b22616e7e5.svg",
+    "static/media/genius-platform-logos-0d634d9b.svg": "/static/media/genius-platform-logos-0d634d9b.f825706117d2cf9d40f452723deee3b8.svg",
+    "static/media/genius-genius-logo-379506fc.svg": "/static/media/genius-genius-logo-379506fc.3d1e2a1ff0df35050e8b41762c9f8149.svg",
+    "index.html": "/index.html",
+    "main.e0c83e90.css.map": "/static/css/main.e0c83e90.css.map",
+    "main.29db302c.js.map": "/static/js/main.29db302c.js.map",
+    "787.1153445b.chunk.js.map": "/static/js/787.1153445b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c83e90.css",
+    "static/js/main.29db302c.js"
+  ]
+}
